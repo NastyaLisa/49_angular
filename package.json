@@ -1,7 +1,7 @@
 {
   "name": "angular-app",
   "version": "0.0.0",
-  "homepage": "https://nastyalisa.github.io/49_angular",,
+  "homepage": "https://nastyalisa.github.io/49_angular",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
